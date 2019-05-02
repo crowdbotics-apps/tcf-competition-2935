@@ -1,0 +1,3 @@
+rootProject.name = 'tcf_competition_2935'
+
+include ':app'
